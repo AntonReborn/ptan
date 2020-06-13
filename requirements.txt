@@ -1,7 +1,6 @@
 numpy
 opencv-python
 gym
-atari-py
 nose
 torch==1.5.0
 torch-ignite==0.2.1
